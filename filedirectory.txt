@@ -1,0 +1,39 @@
+pwd – current directory చూపిస్తుంది
+
+ls – files & folders list
+
+ls -l – detailed list
+
+ls -a – hidden files
+
+cd – directory change
+
+cd .. – one level back
+
+mkdir – folder create
+
+mkdir -p – nested folders
+
+rmdir – empty folder delete
+
+rm – file delete
+
+rm -r – folder delete
+
+rm -rf – force delete
+
+touch – empty file create
+
+cp – file copy
+
+cp -r – folder copy
+
+mv – move / rename
+
+tree – directory structure
+
+stat – file details
+
+file – file type
+
+realpath – full path
