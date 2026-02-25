@@ -1,0 +1,19 @@
+ip a – IP address
+
+ip r – routing table
+
+ping – connectivity check
+
+netstat – network stats
+
+ss – socket stats
+
+curl – API / URL test
+
+wget – download files
+
+ftp – file transfer
+
+scp – secure copy
+
+ssh – remote login
