@@ -1,0 +1,10 @@
+docker build
+docker run
+docker ps
+docker images
+docker stop
+docker rm
+docker exec
+docker logs
+docker push
+docker pull
