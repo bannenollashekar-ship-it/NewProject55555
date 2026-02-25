@@ -1,0 +1,29 @@
+cat – file content
+
+less – large file view
+
+more – page view
+
+head – first lines
+
+tail – last lines
+
+tail -f – live logs
+
+nl – line numbers
+
+wc – word/line count
+
+sort – sort content
+
+uniq – remove duplicates
+
+cut – column extract
+
+paste – merge lines
+
+tr – replace chars
+
+sed – stream editor
+
+awk – pattern processing
